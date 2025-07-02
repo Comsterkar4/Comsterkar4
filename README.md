@@ -1,5 +1,4 @@
-## Hi there 👋 
-Hello Bro 
+## Hi 
 
 <!--
 **Comsterkar4/Comsterkar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
